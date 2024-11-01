@@ -1,3 +1,1 @@
-# DISEASE-MODELING
-This script provides insights into modeling of some diseases and how the population of the various classes(susceptible class, exposed class, infected class and recovered class) changes relative to time
-Please note that the parameters used are just for demostration purposes and as such the model does not acurrately predit the spread of the disease.
+This script provides an overview of disease modeling, demonstrating how the populations of different compartments—Susceptible, Exposed, Infected, and Recovered—change over time. Please note that the parameters used here are solely for demonstration purposes, so this model does not accurately predict the actual spread of the disease.
